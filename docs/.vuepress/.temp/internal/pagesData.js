@@ -5,8 +5,6 @@ export const pagesData = {
   "v-184f4da6": () => import(/* webpackChunkName: "v-184f4da6" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/intro.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /slide.html
-  "v-0e503981": () => import(/* webpackChunkName: "v-0e503981" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/slide.html.js").then(({ data }) => data),
   // path: /guide/disable.html
   "v-4c863446": () => import(/* webpackChunkName: "v-4c863446" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/guide/disable.html.js").then(({ data }) => data),
   // path: /guide/encrypt.html

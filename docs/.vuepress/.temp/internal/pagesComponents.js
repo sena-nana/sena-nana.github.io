@@ -7,8 +7,6 @@ export const pagesComponents = {
   "v-184f4da6": defineAsyncComponent(() => import(/* webpackChunkName: "v-184f4da6" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/intro.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /slide.html
-  "v-0e503981": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e503981" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/slide.html.vue")),
   // path: /guide/disable.html
   "v-4c863446": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c863446" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/guide/disable.html.vue")),
   // path: /guide/encrypt.html
