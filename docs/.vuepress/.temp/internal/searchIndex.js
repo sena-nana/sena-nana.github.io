@@ -7,6 +7,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "更新日志",
+    "headers": [],
+    "path": "/updatelog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "主规则书",
     "headers": [
       {

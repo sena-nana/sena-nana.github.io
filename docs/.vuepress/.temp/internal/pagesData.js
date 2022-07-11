@@ -3,6 +3,8 @@ export const pagesData = {
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /updatelog.html
+  "v-444f99d2": () => import(/* webpackChunkName: "v-444f99d2" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/updatelog.html.js").then(({ data }) => data),
   // path: /main/
   "v-14f0b23d": () => import(/* webpackChunkName: "v-14f0b23d" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/index.html.js").then(({ data }) => data),
   // path: /main/1/%E7%AC%AC%E4%B8%80%E8%8A%82.html
