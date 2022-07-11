@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
-import sidebar from "./sidebar";
+import sidebar from "../main/sidebar";
 
 export default hopeTheme({
   hostname: "https://sena-nana.github.io",
@@ -18,14 +18,14 @@ export default hopeTheme({
   backToTop:true,
   iconAssets: "iconfont",
   logo: "",
-  repo: "sena-nana/sena-nana.github.io",
+  //repo: "sena-nana/sena-nana.github.io",
   docsDir: "demo/src",
   navbar: navbar,
   sidebar: sidebar,
   footer: "后面没有了哦~",
   displayFooter: true,
   //pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-  pageInfo: ["Original", "Date", "Category", "Tag", "ReadingTime"],
+  pageInfo: [ "Tag", "ReadingTime","Word"],
   blog: {
     description: "一个不正经的 V",
     intro: "/intro.md",
@@ -60,6 +60,7 @@ export default hopeTheme({
       categoryId: "DIC_kwDOHodYrM4CQJHP",
 
     },
+    
     photoSwipe:{
       
     },
@@ -68,7 +69,14 @@ export default hopeTheme({
     },
     sitemap:{},
     mdEnhance: {
-      //enableAll: true,
+      gfm:true,
+      container:true,
+      tabs:true,
+      codetabs:true,
+      align:true,
+      tasklist:true,
+      flowchart:true,
+      stylize:[],
       presentation: false,
     },
   },

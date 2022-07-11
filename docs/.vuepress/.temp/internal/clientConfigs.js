@@ -10,6 +10,7 @@ import clientConfig8 from 'D:/PROJECT/magiahonkai/docs/.vuepress/.temp/md-enhanc
 import clientConfig9 from 'D:/PROJECT/magiahonkai/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-photo-swipe@2.0.0-beta.85/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig10 from 'D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pwa2/config.js'
 import clientConfig11 from 'D:/PROJECT/magiahonkai/docs/.vuepress/.temp/theme-hope/config.js'
+import clientConfig12 from 'D:/PROJECT/magiahonkai/node_modules/.pnpm/registry.npmmirror.com+@vuepress+plugin-search@2.0.0-beta.48/node_modules/@vuepress/plugin-search/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ]

@@ -7,7 +7,7 @@ heroText: 魔法崩坏
 tagline: 一个泛魔法少女主题 TRPG 规则
 actions:
   - text: 规则书 ⭐
-    link: /guide/
+    link: /main/
     type: primary
 
   - text: 主页
