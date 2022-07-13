@@ -18,7 +18,7 @@ export default hopeTheme({
   backToTop:true,
   iconAssets: "iconfont",
   logo: "",
-  //repo: "sena-nana/sena-nana.github.io",
+  repo: "sena-nana/sena-nana.github.io",
   docsDir: "demo/src",
   navbar: navbar,
   sidebar: sidebar,
