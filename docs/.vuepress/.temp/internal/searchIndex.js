@@ -8,21 +8,21 @@ export const searchIndex = [
   },
   {
     "title": "更新日志",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "0.00（20220712）",
+        "slug": "_0-00-20220712",
+        "children": []
+      }
+    ],
     "path": "/updatelog.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "主规则书",
-    "headers": [
-      {
-        "level": 2,
-        "title": "目录",
-        "slug": "目录",
-        "children": []
-      }
-    ],
+    "headers": [],
     "path": "/main/",
     "pathLocale": "/",
     "extraFields": []

@@ -8,7 +8,7 @@ export default hopeTheme({
     name: "星奈 Sena",
     url: "https://space.bilibili.com/82717585",
   },
-  pure:true,
+  //pure:true,
   themeColor:{
       blue: "#2196f3",
       red: "#f26d6d",
