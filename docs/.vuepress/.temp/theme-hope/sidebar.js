@@ -1,1 +1,1 @@
-export const sidebarData = {}
+export const sidebarData = {"/main/":["README.md",{"text":"游戏说明","icon":"creative","collapsable":true,"prefix":"游戏说明/","children":["游戏流程.md","骰子.md","DLC规则.md"]}]}

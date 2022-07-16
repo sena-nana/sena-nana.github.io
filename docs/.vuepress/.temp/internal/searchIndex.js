@@ -7,6 +7,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "",
+    "headers": [],
+    "path": "/thanks.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "更新日志",
     "headers": [
       {
@@ -21,16 +28,51 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "主规则书",
+    "title": "前言",
     "headers": [],
     "path": "/main/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "第一节",
+    "title": "游戏说明",
     "headers": [],
-    "path": "/main/1/%E7%AC%AC%E4%B8%80%E8%8A%82.html",
+    "path": "/user/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "DLC规则",
+    "headers": [
+      {
+        "level": 3,
+        "title": "具体流程",
+        "slug": "具体流程",
+        "children": []
+      }
+    ],
+    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/DLC%E8%A7%84%E5%88%99.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "游戏说明",
+    "headers": [],
+    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "游戏流程",
+    "headers": [],
+    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "骰子",
+    "headers": [],
+    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E9%AA%B0%E5%AD%90.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -91,9 +133,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "使用指南 分类",
+    "title": "主规则书 分类",
     "headers": [],
-    "path": "/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
+    "path": "/category/%E4%B8%BB%E8%A7%84%E5%88%99%E4%B9%A6/",
     "pathLocale": "/",
     "extraFields": []
   },

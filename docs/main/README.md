@@ -1,9 +1,9 @@
 ---
-title: 主规则书
+title: 前言
 index: true
 icon: creative
 category:
-  - 使用指南
+  - 主规则书
 ---
 魔法崩坏，是一个魔法少女小圆同人世界观跑团规则
 

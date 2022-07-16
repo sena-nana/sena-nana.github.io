@@ -3,9 +3,10 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   "/main/",
   {
-    text: "第一章",
+    text: "游戏说明",
     icon: "note",
-    prefix: "/main/1",
-    children: ["第一节"],
+    prefix: "/main/游戏说明",
+    collapsable: true,
+    children: ["游戏流程","骰子","DLC规则"],
   },
 ]);

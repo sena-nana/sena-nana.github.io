@@ -21,11 +21,13 @@ export default hopeTheme({
   repo: "sena-nana/sena-nana.github.io",
   docsDir: "demo/src",
   navbar: navbar,
-  sidebar: sidebar,
+  sidebar: {
+    "/main/":"structure",
+  },
   footer: "后面没有了哦~",
   displayFooter: true,
   //pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-  pageInfo: [ "Tag", "ReadingTime","Word"],
+  pageInfo: ["Author", "ReadingTime","Word"],
   blog: {
     description: "一个不正经的 V",
     intro: "/intro.md",
