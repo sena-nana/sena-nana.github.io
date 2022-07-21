@@ -5,19 +5,38 @@ export default navbar([
     text: "主规则书", 
     icon: "creative", 
     link: "/main/", 
-    //children: [],
-  },
-  { 
-    text: "玩家速成", 
-    icon: "creative", 
-    link: "/user/", 
-    //children: [],
   },
   { 
     text: "扩展规则", 
     icon: "creative", 
     link: "/", 
-    //children: [],
   },
-  "/updatelog.md",
+  { 
+    text: "模组", 
+    icon: "creative", 
+    link: "/story/", 
+  },
+  { 
+    text: "骰娘说明书", 
+    icon: "creative", 
+    link: "/", 
+  },
+  { 
+    text: "项目信息", 
+    icon: "creative", 
+    children: [
+      "/updatelog.md",
+      "/thanks.md",
+      {
+        text: "骰娘仓库", 
+        icon: "creative", 
+        link: "/", 
+      },
+      {
+        text: "关于星奈", 
+        icon: "creative", 
+        link: "https://space.bilibili.com/82717585", 
+      },
+    ],
+  },
 ]);

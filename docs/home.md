@@ -13,11 +13,5 @@ projects:
     desc: 一个类魔法少女主题的 TRPG 规则书
     link: /home.md
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
-
 footer: 后面没有了哦~
 ---
-
