@@ -7,7 +7,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "致谢",
     "headers": [],
     "path": "/thanks.html",
     "pathLocale": "/",
@@ -17,9 +17,27 @@ export const searchIndex = [
     "title": "更新日志",
     "headers": [
       {
-        "level": 2,
-        "title": "0.00（20220712）",
-        "slug": "_0-00-20220712",
+        "level": 3,
+        "title": "模组",
+        "slug": "模组",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "主规则",
+        "slug": "主规则",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "架构",
+        "slug": "架构",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "骰娘",
+        "slug": "骰娘",
         "children": []
       }
     ],
@@ -29,15 +47,67 @@ export const searchIndex = [
   },
   {
     "title": "前言",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "那么，和我签订契约，成为魔法少女吧",
+        "slug": "那么-和我签订契约-成为魔法少女吧",
+        "children": []
+      }
+    ],
     "path": "/main/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "游戏说明",
+    "title": "说明",
     "headers": [],
-    "path": "/user/",
+    "path": "/story/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "如月车站",
+    "headers": [
+      {
+        "level": 2,
+        "title": "写在开头",
+        "slug": "写在开头",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "背景",
+        "slug": "背景",
+        "children": [
+          {
+            "level": 3,
+            "title": "崩坏角色背景",
+            "slug": "崩坏角色背景",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "背景导入",
+        "slug": "背景导入",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "第一部分：交流",
+        "slug": "第一部分-交流",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "结局",
+        "slug": "结局",
+        "children": []
+      }
+    ],
+    "path": "/story/%E5%A6%82%E6%9C%88%E8%BD%A6%E7%AB%99.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -52,6 +122,20 @@ export const searchIndex = [
       }
     ],
     "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/DLC%E8%A7%84%E5%88%99.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "RD规则",
+    "headers": [
+      {
+        "level": 3,
+        "title": "它的优势",
+        "slug": "它的优势",
+        "children": []
+      }
+    ],
+    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/RD%E8%A7%84%E5%88%99.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -143,6 +227,13 @@ export const searchIndex = [
     "title": "Markdown 标签",
     "headers": [],
     "path": "/tag/markdown/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "模组 分类",
+    "headers": [],
+    "path": "/category/%E6%A8%A1%E7%BB%84/",
     "pathLocale": "/",
     "extraFields": []
   }

@@ -25,7 +25,7 @@ features:
     link: 
 
 
-copyright: MIT Licensed | Copyright © 2022-present 星奈 Sena
+copyright: MIT Licensed / CC-BY-NC-SA | Copyright © 2022-present 星奈 Sena
 footer: 后面没有了哦~
 ---
 

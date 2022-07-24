@@ -9,10 +9,14 @@ export const pagesData = {
   "v-444f99d2": () => import(/* webpackChunkName: "v-444f99d2" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/updatelog.html.js").then(({ data }) => data),
   // path: /main/
   "v-14f0b23d": () => import(/* webpackChunkName: "v-14f0b23d" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/index.html.js").then(({ data }) => data),
-  // path: /user/
-  "v-15698e6b": () => import(/* webpackChunkName: "v-15698e6b" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/user/index.html.js").then(({ data }) => data),
+  // path: /story/
+  "v-d71d8bda": () => import(/* webpackChunkName: "v-d71d8bda" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/story/index.html.js").then(({ data }) => data),
+  // path: /story/%E5%A6%82%E6%9C%88%E8%BD%A6%E7%AB%99.html
+  "v-340124ee": () => import(/* webpackChunkName: "v-340124ee" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/story/如月车站.html.js").then(({ data }) => data),
   // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/DLC%E8%A7%84%E5%88%99.html
   "v-3d1fdecc": () => import(/* webpackChunkName: "v-3d1fdecc" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/DLC规则.html.js").then(({ data }) => data),
+  // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/RD%E8%A7%84%E5%88%99.html
+  "v-fae750ea": () => import(/* webpackChunkName: "v-fae750ea" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/RD规则.html.js").then(({ data }) => data),
   // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/
   "v-252a67e5": () => import(/* webpackChunkName: "v-252a67e5" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/index.html.js").then(({ data }) => data),
   // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B.html
@@ -39,4 +43,6 @@ export const pagesData = {
   "v-7c03385a": () => import(/* webpackChunkName: "v-7c03385a" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/category/主规则书/index.html.js").then(({ data }) => data),
   // path: /tag/markdown/
   "v-484552dc": () => import(/* webpackChunkName: "v-484552dc" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/tag/markdown/index.html.js").then(({ data }) => data),
+  // path: /category/%E6%A8%A1%E7%BB%84/
+  "v-5c991f53": () => import(/* webpackChunkName: "v-5c991f53" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/category/模组/index.html.js").then(({ data }) => data),
 }

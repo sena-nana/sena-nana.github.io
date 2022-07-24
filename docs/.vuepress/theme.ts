@@ -22,9 +22,11 @@ export default hopeTheme({
   navbar: navbar,
   sidebar: {
     "/main/":"structure",
+    "/story/":"structure",
   },
   footer: "后面没有了哦~",
   displayFooter: true,
+  copyright:"MIT Licensed / CC-BY-NC-SA | Copyright © 2022-present 星奈 Sena",
   //pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   pageInfo: ["Author", "ReadingTime","Word"],
   blog: {
