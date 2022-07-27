@@ -27,7 +27,6 @@ export default hopeTheme({
   footer: "后面没有了哦~",
   displayFooter: true,
   copyright:"MIT Licensed / CC-BY-NC-SA | Copyright © 2022-present 星奈 Sena",
-  //pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   pageInfo: ["Author", "ReadingTime","Word"],
   blog: {
     description: "一个不正经的 V",
@@ -52,7 +51,6 @@ export default hopeTheme({
       contributors:true,
       createdTime:false,
     },
-
     comment: {
       provider: "Giscus",
       repo: "sena-nana/sena-nana.github.io",
@@ -61,10 +59,7 @@ export default hopeTheme({
       categoryId: "DIC_kwDOHodYrM4CQJHP",
 
     },
-    
-    photoSwipe:{
-      
-    },
+    photoSwipe:{},
     pwa:{
       showInstall: true,
     },

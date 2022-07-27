@@ -1,5 +1,6 @@
 ---
-title: 游戏说明
+title: 签订契约
 index: false
+order: 2
 icon: creative
 ---

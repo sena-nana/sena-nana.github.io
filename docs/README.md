@@ -17,12 +17,12 @@ features:
   - title: 世界观兼容
     icon: creative
     details: 魔法崩坏仅需少量修改就可以适应各种类魔法少女世界观
-    link: 
+    link: /main/readme/DLCrule
 
   - title: 简单易懂
     icon: support
     details: 大概吧（
-    link: 
+    link: /main/readme/routine
 
 
 copyright: MIT Licensed / CC-BY-NC-SA | Copyright © 2022-present 星奈 Sena

@@ -22,6 +22,11 @@ export default navbar([
     link: "/", 
   },
   { 
+    text: "数据库", 
+    icon: "creative", 
+    link: "/", 
+  },
+  { 
     text: "项目信息", 
     icon: "creative", 
     children: [
@@ -31,6 +36,11 @@ export default navbar([
         text: "骰娘仓库", 
         icon: "creative", 
         link: "/", 
+      },
+      {
+        text: "一版规则", 
+        icon: "markdown", 
+        link: "https://wwb.lanzouw.com/i7Hemz8zuoh", 
       },
       {
         text: "关于星奈", 
