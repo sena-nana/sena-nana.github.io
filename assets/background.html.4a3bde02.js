@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c}from"./app.3aca785f.js";const o={};function t(_,a){return r(),c("div")}var m=e(o,[["render",t],["__file","background.html.vue"]]);export{m as default};
