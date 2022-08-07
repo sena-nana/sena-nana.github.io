@@ -40,7 +40,7 @@ export default navbar([
       {
         text: "一版规则", 
         icon: "markdown", 
-        link: "https://wwb.lanzouw.com/i7Hemz8zuoh", 
+        link: "https://sena-nana.github.io/mh1/", 
       },
       {
         text: "关于星奈", 
