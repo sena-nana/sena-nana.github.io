@@ -16,7 +16,7 @@ export default hopeTheme({
   },
   backToTop:true,
   iconAssets: "iconfont",
-  logo: "",
+  logo: "QB.gif",
   repo: "sena-nana/sena-nana.github.io",
   docsDir: "demo/src",
   navbar: navbar,

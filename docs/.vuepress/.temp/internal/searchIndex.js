@@ -47,22 +47,8 @@ export const searchIndex = [
   },
   {
     "title": "前言",
-    "headers": [
-      {
-        "level": 2,
-        "title": "那么，和我签订契约，成为魔法少女吧",
-        "slug": "那么-和我签订契约-成为魔法少女吧",
-        "children": []
-      }
-    ],
-    "path": "/main/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "说明",
     "headers": [],
-    "path": "/story/",
+    "path": "/main/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -77,13 +63,37 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "背景",
-        "slug": "背景",
+        "title": "更新记录",
+        "slug": "更新记录",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "规则更改",
+        "slug": "规则更改",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "崩坏背景",
+        "slug": "崩坏背景",
         "children": [
           {
             "level": 3,
-            "title": "崩坏角色背景",
-            "slug": "崩坏角色背景",
+            "title": "少女的物语",
+            "slug": "少女的物语",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "魔改参考",
+            "slug": "魔改参考",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "人物设定",
+            "slug": "人物设定",
             "children": []
           }
         ]
@@ -92,13 +102,57 @@ export const searchIndex = [
         "level": 2,
         "title": "背景导入",
         "slug": "背景导入",
+        "children": [
+          {
+            "level": 3,
+            "title": "背景要求",
+            "slug": "背景要求",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "第一部分：月台四周",
+        "slug": "第一部分-月台四周",
         "children": []
       },
       {
         "level": 2,
-        "title": "第一部分：交流",
-        "slug": "第一部分-交流",
+        "title": "第二部分：列车一车厢",
+        "slug": "第二部分-列车一车厢",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "第三部分：列车二车厢",
+        "slug": "第三部分-列车二车厢",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "第四部分：列车三车厢",
+        "slug": "第四部分-列车三车厢",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "第五部分：回到月台",
+        "slug": "第五部分-回到月台",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "战斗",
+        "slug": "战斗",
+        "children": [
+          {
+            "level": 3,
+            "title": "雨宫如月的崩坏化身（Id）:",
+            "slug": "雨宫如月的崩坏化身-id",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -107,7 +161,155 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/story/%E5%A6%82%E6%9C%88%E8%BD%A6%E7%AB%99.html",
+    "path": "/story/KisaragiStation.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "说明",
+    "headers": [],
+    "path": "/story/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "武器",
+    "headers": [],
+    "path": "/main/card/arms.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "决定属性",
+    "headers": [
+      {
+        "level": 3,
+        "title": "力量（STR）=3D6",
+        "slug": "力量-str-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "敏捷（DEX）=3D6",
+        "slug": "敏捷-dex-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "知识（KNO）=3D6",
+        "slug": "知识-kno-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "因果（KAR）=3D6",
+        "slug": "因果-kar-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "情感（EMO）=3D6",
+        "slug": "情感-emo-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "幸运（LUCK）=3D6",
+        "slug": "幸运-luck-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "身材（FIG）=3D6",
+        "slug": "身材-fig-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "魅力（APP）=3D6",
+        "slug": "魅力-app-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "年龄（AGE）=3D6",
+        "slug": "年龄-age-3d6",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "元气（HP）=情感",
+        "slug": "元气-hp-情感",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "理智（SAN）=因果*5",
+        "slug": "理智-san-因果-5",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "对骰出的属性不满意",
+        "slug": "对骰出的属性不满意",
+        "children": []
+      }
+    ],
+    "path": "/main/card/attribute.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "完善背景",
+    "headers": [],
+    "path": "/main/card/background.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "回忆",
+    "headers": [],
+    "path": "/main/card/memories.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "签订契约",
+    "headers": [],
+    "path": "/main/card/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "学习技能",
+    "headers": [
+      {
+        "level": 3,
+        "title": "生活技能点 =知识*4",
+        "slug": "生活技能点-知识-4",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "魔法技能点 =情感*2",
+        "slug": "魔法技能点-情感-2",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "固有能力",
+        "slug": "固有能力",
+        "children": []
+      }
+    ],
+    "path": "/main/card/skill.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "骰子",
+    "headers": [],
+    "path": "/main/readme/dice.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -121,12 +323,12 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/DLC%E8%A7%84%E5%88%99.html",
+    "path": "/main/readme/DLCrule.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "RD规则",
+    "title": "RD 规则",
     "headers": [
       {
         "level": 3,
@@ -135,28 +337,21 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/RD%E8%A7%84%E5%88%99.html",
+    "path": "/main/readme/RDchekerule.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "游戏说明",
+    "title": "游戏及特殊系统说明",
     "headers": [],
-    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/",
+    "path": "/main/readme/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "游戏流程",
     "headers": [],
-    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "骰子",
-    "headers": [],
-    "path": "/main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E9%AA%B0%E5%AD%90.html",
+    "path": "/main/readme/routine.html",
     "pathLocale": "/",
     "extraFields": []
   },

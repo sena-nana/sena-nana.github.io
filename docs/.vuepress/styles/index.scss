@@ -1,0 +1,15 @@
+    .img{
+        box-shadow: 0px 0px 5px var(--theme-color);
+        border-radius: 5px;
+        margin:10px 30px;
+        }
+    .img_group{
+        flex-direction: row;
+        display:flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    .imgdiv{
+        flex-direction: column;
+    }

@@ -11,20 +11,32 @@ export const pagesComponents = {
   "v-444f99d2": defineAsyncComponent(() => import(/* webpackChunkName: "v-444f99d2" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/updatelog.html.vue")),
   // path: /main/
   "v-14f0b23d": defineAsyncComponent(() => import(/* webpackChunkName: "v-14f0b23d" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/index.html.vue")),
+  // path: /story/KisaragiStation.html
+  "v-6049ce16": defineAsyncComponent(() => import(/* webpackChunkName: "v-6049ce16" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/story/KisaragiStation.html.vue")),
   // path: /story/
   "v-d71d8bda": defineAsyncComponent(() => import(/* webpackChunkName: "v-d71d8bda" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/story/index.html.vue")),
-  // path: /story/%E5%A6%82%E6%9C%88%E8%BD%A6%E7%AB%99.html
-  "v-340124ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-340124ee" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/story/如月车站.html.vue")),
-  // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/DLC%E8%A7%84%E5%88%99.html
-  "v-3d1fdecc": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d1fdecc" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/DLC规则.html.vue")),
-  // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/RD%E8%A7%84%E5%88%99.html
-  "v-fae750ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-fae750ea" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/RD规则.html.vue")),
-  // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/
-  "v-252a67e5": defineAsyncComponent(() => import(/* webpackChunkName: "v-252a67e5" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/index.html.vue")),
-  // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B.html
-  "v-58c05ad0": defineAsyncComponent(() => import(/* webpackChunkName: "v-58c05ad0" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/游戏流程.html.vue")),
-  // path: /main/%E6%B8%B8%E6%88%8F%E8%AF%B4%E6%98%8E/%E9%AA%B0%E5%AD%90.html
-  "v-5b30c9b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b30c9b2" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/游戏说明/骰子.html.vue")),
+  // path: /main/card/arms.html
+  "v-e0b9f640": defineAsyncComponent(() => import(/* webpackChunkName: "v-e0b9f640" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/card/arms.html.vue")),
+  // path: /main/card/attribute.html
+  "v-32207f3f": defineAsyncComponent(() => import(/* webpackChunkName: "v-32207f3f" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/card/attribute.html.vue")),
+  // path: /main/card/background.html
+  "v-4c3d7dae": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c3d7dae" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/card/background.html.vue")),
+  // path: /main/card/memories.html
+  "v-093759d0": defineAsyncComponent(() => import(/* webpackChunkName: "v-093759d0" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/card/memories.html.vue")),
+  // path: /main/card/
+  "v-a531d9fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-a531d9fc" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/card/index.html.vue")),
+  // path: /main/card/skill.html
+  "v-4e640cac": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e640cac" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/card/skill.html.vue")),
+  // path: /main/readme/dice.html
+  "v-8ddf4aa4": defineAsyncComponent(() => import(/* webpackChunkName: "v-8ddf4aa4" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/readme/dice.html.vue")),
+  // path: /main/readme/DLCrule.html
+  "v-735a3334": defineAsyncComponent(() => import(/* webpackChunkName: "v-735a3334" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/readme/DLCrule.html.vue")),
+  // path: /main/readme/RDchekerule.html
+  "v-4e5378b9": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e5378b9" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/readme/RDchekerule.html.vue")),
+  // path: /main/readme/
+  "v-0f509b64": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f509b64" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/readme/index.html.vue")),
+  // path: /main/readme/routine.html
+  "v-24bb400e": defineAsyncComponent(() => import(/* webpackChunkName: "v-24bb400e" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/main/readme/routine.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/PROJECT/magiahonkai/docs/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

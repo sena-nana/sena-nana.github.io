@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 项目主页
-heroImage: 
+heroImage: QB.gif
 heroText: 魔法崩坏
 tagline: 一个泛魔法少女主题 TRPG 规则
 actions:

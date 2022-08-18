@@ -45,7 +45,7 @@ export default navbar([
       {
         text: "关于星奈", 
         icon: "creative", 
-        link: "https://space.bilibili.com/82717585", 
+        link: "https://github.com/sena-nana", 
       },
     ],
   },
