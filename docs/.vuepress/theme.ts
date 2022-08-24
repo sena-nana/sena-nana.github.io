@@ -7,6 +7,7 @@ export default hopeTheme({
     name: "星奈 Sena",
     url: "https://space.bilibili.com/82717585",
   },
+
   //pure:true,
   themeColor:{
       blue: "#2196f3",
@@ -57,8 +58,8 @@ export default hopeTheme({
       repoId: "R_kgDOHodYrA",
       category: "Announcements",
       categoryId: "DIC_kwDOHodYrM4CQJHP",
-
     },
+
     photoSwipe:{},
     pwa:{
       showInstall: true,
