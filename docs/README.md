@@ -6,12 +6,15 @@ heroImage: QB.gif
 heroText: 魔法崩坏
 tagline: 一个泛魔法少女主题 TRPG 规则
 actions:
-  - text: Github主站 ⭐
-    link: https://sena-nana.github.io/
+  - text: 规则书 ⭐
+    link: https://sena-nana.github.io/main/
     type: primary
 
   - text: Netlify镜像站 💠
     link: https://magiahonkai.netlify.app/
+
+  - text: 一版规则书 💠
+    link: https://sena-nana.github.io/mh1/
 
 features:
   - title: 世界观兼容
