@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{o as e,c}from"./app.1e7f63e7.js";const o={};function r(a,_){return e(),c("div")}var n=t(o,[["render",r],["__file","LastDayofWitch.html.vue"]]);export{n as default};
