@@ -1,5 +1,5 @@
 ---
-title: 游戏流程
+title: 游戏流程说明
 icon: markdown
 order: 1
 tag:

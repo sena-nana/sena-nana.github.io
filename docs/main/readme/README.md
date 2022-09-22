@@ -1,5 +1,5 @@
 ---
-title: 游戏及特殊系统说明
+title: 规则须知（必看）
 index: false
 order: 1
 icon: creative

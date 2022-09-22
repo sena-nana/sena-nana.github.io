@@ -5,7 +5,7 @@ export default hopeTheme({
   hostname: "https://sena-nana.github.io",
   author: {
     name: "星奈 Sena",
-    url: "https://space.bilibili.com/82717585",
+    url: "https://github.com/sena-nana",
   },
 
   //pure:true,
@@ -17,13 +17,15 @@ export default hopeTheme({
   },
   backToTop:true,
   iconAssets: "iconfont",
-  logo: "QB.gif",
+  logo: "",
   repo: "sena-nana/sena-nana.github.io",
   docsDir: "demo/src",
   navbar: navbar,
   sidebar: {
     "/main/":"structure",
     "/story/":"structure",
+    "/database/":'structure',
+    "/wiki/":"structure"
   },
   footer: "后面没有了哦~",
   displayFooter: true,
@@ -35,7 +37,7 @@ export default hopeTheme({
     medias: {
       Bilibili: "https://space.bilibili.com/82717585",
       Notion: "https://senanana.notion.com",
-      Github: "https://sena-nana.github.io",
+      Github: "https://github.com/sena-nana",
     },
   },
   encrypt: {

@@ -24,7 +24,7 @@ export default navbar([
   { 
     text: "数据库", 
     icon: "creative", 
-    link: "/", 
+    link: "/database/", 
   },
   { 
     text: "项目信息", 
@@ -35,12 +35,17 @@ export default navbar([
       {
         text: "骰娘仓库", 
         icon: "creative", 
-        link: "/", 
+        link: "https://github.com/sena-nana/MutsukiBot", 
       },
       {
         text: "一版规则", 
         icon: "markdown", 
         link: "https://sena-nana.github.io/mh1/", 
+      },
+      {
+        text: "官方群聊", 
+        icon: "creative", 
+        link: "https://jq.qq.com/?_wv=1027&k=LsRdMXNg", 
       },
       {
         text: "关于星奈", 

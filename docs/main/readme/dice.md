@@ -1,5 +1,5 @@
 ---
-title: 骰子
+title: 骰娘说明
 icon: markdown
 order: 2
 tag:
