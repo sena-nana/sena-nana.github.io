@@ -19,7 +19,7 @@ export default hopeTheme({
   iconAssets: "iconfont",
   logo: "",
   repo: "sena-nana/sena-nana.github.io",
-  docsDir: "docs/main",
+  lastUpdated:true,
   navbar: navbar,
   sidebar: {
     "/main/":"structure",

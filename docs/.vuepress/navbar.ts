@@ -19,7 +19,7 @@ export default navbar([
   { 
     text: "骰娘说明书", 
     icon: "creative", 
-    link: "/", 
+    link: "https://sena-nana.github.io/mutsukidocs/", 
   },
   { 
     text: "数据库", 

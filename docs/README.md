@@ -25,7 +25,7 @@ features:
   - title: 丰富的引导程序(未完成)
     icon: support
     details: 该规则书附带开源的基于Nonebot2的骰娘和专用的车卡软件
-    link: /main/readme/routine
+    link: https://sena-nana.github.io/mutsukidocs/
 
   - title: RD检定系统
     icon: support
