@@ -41,10 +41,16 @@ features:
     icon: support
     details: 该规则的设计思路之一，便是不考虑面团（不依赖BOT）的可行性，这也使得该规则能够尝试过去跑团规则中难以实现的玩法
     link: /main/readme/routine
+
   - title: 交流QQ群
     icon: support
     details: 魔法崩坏规则作者维护的QQ群，在这里你能够找到同样喜欢魔法崩坏规则的玩家，同样该群也欢迎其他规则的跑团游戏
     link: https://jq.qq.com/?_wv=1027&k=LsRdMXNg
+
+  - title: 密室友好
+    icon: support
+    details: 由于世界观的特殊性，我们提供了很多密室(结界)中特殊的机制，这就使得即便是密室题材也能发挥很多创意
+    link: /
 
 copyright: MIT Licensed / CC-BY-NC-SA | Copyright © 2022-present 星奈 Sena
 footer: 后面没有了哦~
