@@ -36,7 +36,6 @@ export default hopeTheme({
     intro: "/README.md",
     medias: {
       Bilibili: "https://space.bilibili.com/82717585",
-      Notion: "https://senanana.notion.com",
       Github: "https://github.com/sena-nana",
     },
   },
